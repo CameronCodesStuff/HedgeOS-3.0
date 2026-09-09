@@ -20,7 +20,3 @@ npm run dev
 
 ## 📜 License  
 MIT
-
----
-
-If you want an even **shorter** version or a **fun Hedge‑style chaotic version**, I can make that too.
